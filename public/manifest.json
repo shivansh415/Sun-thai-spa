@@ -1,0 +1,16 @@
+{
+  "name": "Sun Thai Spa Bhopal",
+  "short_name": "Sun Thai Spa",
+  "description": "Luxury Spa & Massage in Bhopal at Aashima Mall",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0704",
+  "theme_color": "#C9973A",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}

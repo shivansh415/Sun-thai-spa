@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# editor settings
+.vscode/
+
+# Kiro spec files (internal planning, not part of the production site)
+.kiro/
+
+# Markdown docs (per repo policy — exclude from pushed bundle)
+*.md
+
+# Reference screenshots used during design (not needed in the production bundle)
+/public/refrance images/
