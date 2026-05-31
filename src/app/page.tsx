@@ -9,6 +9,7 @@ const TreatmentsSection = dynamic(
   () => import("@/components/TreatmentsSection")
 );
 const BenefitsSection = dynamic(() => import("@/components/BenefitsSection"));
+const PricingSection = dynamic(() => import("@/components/PricingSection"));
 const FeaturesSection = dynamic(() => import("@/components/FeaturesSection"));
 const TestimonialsSection = dynamic(
   () => import("@/components/TestimonialsSection")
@@ -31,6 +32,7 @@ export default function Home() {
         <AboutSection />
         <TreatmentsSection />
         <BenefitsSection />
+        <PricingSection />
         <FeaturesSection />
         <TestimonialsSection />
         <BlogSection />
